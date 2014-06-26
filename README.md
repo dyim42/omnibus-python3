@@ -1,7 +1,8 @@
 python3 Omnibus project
 =======================
 This project creates full-stack platform-specific packages for
-`python3`!
+`python3`! This omnibus project builds python 3.4.1, the latest python 3 
+from source and creates an OS package. Enjoy. 
 
 Installation
 ------------
